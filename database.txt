@@ -1,0 +1,4 @@
+Bookname: think and grow rich Quantity: 20
+Bookname: forty rules of love Quantity: 12
+Bookname: 7 habits Quantity: 12
+Bookname: better than before Quantity: 35
